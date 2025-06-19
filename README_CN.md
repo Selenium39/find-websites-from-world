@@ -133,7 +133,7 @@
 
 - **网站**：[fwfw.app](https://fwfw.app)
 - **邮箱**：support@fwfw.app
-- **GitHub**：[Selenium39/fwfw.app](https://github.com/Selenium39/find-websites-from-world)
+- **GitHub**：[Selenium39/find-websites-from-world](https://github.com/Selenium39/find-websites-from-world)
 - **Twitter**：[@yuxing39](https://x.com/yuxing39)
 
 ---
